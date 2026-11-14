@@ -87,6 +87,15 @@ Colours: forest green #2D5A3D, burnt orange #B9531F, sand beige #F5E6DA. Logo: t
 
 ## Notes and limits
 - Login is a demo. Any valid email and a password of six or more characters is accepted, and "Remember me" is not stored.
+
+## Images
+
+<img width="561" height="1280" alt="2" src="https://github.com/user-attachments/assets/97d26e6a-ea67-4ddd-84ca-a168a5f5392f" />
+
+
+<img width="561" height="1280" alt="2" src="https://github.com/user-attachments/assets/758a02e8-18f6-4241-9c34-cc44235f246f" />
+
+
 - Quote, saved adventures and login are kept in memory only, so they reset when the app closes.
 - Reviews are sample text and should be replaced with real ones.
 - Payment is a demo and no card details are sent or stored.
