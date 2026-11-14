@@ -3,7 +3,7 @@
 React Native (Expo SDK 58) with TypeScript. This is the mobile app for the Adventure Escape SA website, built for WIL Task 3 (XHAW5112). It has the same activities, discount rules and form validation as the website.
 
 **Client:** Liam Daniels, Adventure Escape SA, Cape Town, Western Cape
-**Student:** Itumeleng Joan Ndlovu (ST10515918)
+**Student:** Itumeleng Joan Ndlovu 
 **Group:** Escape Crew – Rayan Bvulani (team leader), Itumeleng Ndlovu (team secretary), Asukia Ebuta (designer and researcher)
 **Repository:** https://github.com/Tumi87/ADVENTUREESCAPECREWPOE
 
@@ -85,19 +85,48 @@ AdventureEscapeTS/
 ## Brand
 Colours: forest green #2D5A3D, burnt orange #B9531F, sand beige #F5E6DA. Logo: the group's chosen design (mountain, orange sun and dotted ring). Tagline: Explore. Discover. Thrive.
 
+
 ## Notes and limits
 - Login is a demo. Any valid email and a password of six or more characters is accepted, and "Remember me" is not stored.
+- - Quote, saved adventures and login are kept in memory only, so they reset when the app closes.
+- Reviews are sample text and should be replaced with real ones.
+- Payment is a demo and no card details are sent or stored.
+- The map screen opens Google Maps in another app; it is not an embedded map.
+- The Cape Town photo on the splash was cropped from the design screenshot. Replace `assets/cape_town.jpg` with the original photo (same file name) for a sharper image.
 
 ## Images
 
 <img width="561" height="1280" alt="2" src="https://github.com/user-attachments/assets/97d26e6a-ea67-4ddd-84ca-a168a5f5392f" />
 
+<img width="561" height="1280" alt="FC" src="https://github.com/user-attachments/assets/a3a27856-9692-49ba-b453-a62b85881ee8" />
+<img width="561" height="1280" alt="NJK" src="https://github.com/user-attachments/assets/fbaf4f23-673e-4847-b5a3-01957187422c" />
+<img width="561" height="1280" alt="WhatsApp Image 2026-11-14 at 15 13 01 (1)" src="https://github.com/user-attachments/assets/109abb63-40d0-4405-9c60-2c53e3819837" />
+<img width="561" height="1280" alt="CF" src="https://github.com/user-attachments/assets/d3962af6-b3b7-4f26-bb07-b147fed24a3a" />
+<img width="561" height="1280" alt="6666" src="https://github.com/user-attachments/assets/69237fd2-224c-4938-a838-ee5769fc08e9" />
+<img width="561" height="1280" alt="789" src="https://github.com/user-attachments/assets/ebe06fc2-34d4-45d6-afc8-e56e311f7725" />
+<img width="561" height="1280" alt="333" src="https://github.com/user-attachments/assets/3bd51f7b-6706-4894-9a78-a05aba1e5970" />
+<img width="561" height="1280" alt="97" src="https://github.com/user-attachments/assets/1af28af4-ff0f-4a65-992c-64f2ba281f77" />
+<img width="561" height="1280" alt="66" src="https://github.com/user-attachments/assets/5c526fd8-7dc2-4a36-8270-44447ab831e5" />
+<img width="561" height="1280" alt="33" src="https://github.com/user-attachments/assets/cfe2c2a6-c7c6-469a-a1d8-2bdbb86a1b95" />
+<img width="561" height="1280" alt="32" src="https://github.com/user-attachments/assets/3fe12940-37fa-4eae-ba64-43284ad8d675" />
+<img width="561" height="1280" alt="5" src="https://github.com/user-attachments/assets/5e6d995c-347c-470a-8a2e-df69f01607d6" />
+<img width="561" height="1280" alt="4" src="https://github.com/user-attachments/assets/bf27b47e-fd59-48af-a4e4-1fc024fdfcf5" />
 
 <img width="561" height="1280" alt="2" src="https://github.com/user-attachments/assets/758a02e8-18f6-4241-9c34-cc44235f246f" />
 
 
-- Quote, saved adventures and login are kept in memory only, so they reset when the app closes.
-- Reviews are sample text and should be replaced with real ones.
-- Payment is a demo and no card details are sent or stored.
-- The map screen opens Google Maps in another app; it is not an embedded map.
-- The Cape Town photo on the splash was cropped from the design screenshot. Replace `assets/cape_town.jpg` with the original photo (same file name) for a sharper image.
+YouTube video mobile app :https://youtu.be/fzv_KS8eESc?si=HjTtNBWkeKlSPie2 
+https://youtu.be/fzv_KS8eESc?si=HjTtNBWkeKlSPie2 
+
+## Reference
+Wande Cape Town, n.d. Cape Town Adventures, activities & attractions. Available at: https://wandercapetown.com/adventures/ [Accessed 1 September 2026]
+Hawaii Adventure Centre, n.d. Discover Hawai’i’s best activities and adventures. Available at:https://www.hawaiiadventurecenter.com/?gad_source=1&gad_campaignid=23883170 858&gbraid=0AAAAAqbkpvcQX8_dZuhH36jpab6rpj6tq&gclid=Cj0KCQjwteTUBhD4ARIsAE Yjs3oYTgGRaDEDEHX5QoCF7BTG_Dg972x7XKDhv71RymbzcfEMu5qKTCIaAq7uEALw_wc B [Accessed 1 September 2026]
+Lamaj,D., 2025. Low fidelity wireframes: what is it and how to create it. UX Pilot. Available at: https://uxpilot.ai/blogs/low-fidelity-wireframe [Accessed 1 September 2026]
+Pinterest,nd. NorthStart mountains logo design. Available at: https://za.pinterest.com/pin/80572280836400033/ [ Accessed 4 September 2026]
+Lovable,2026. Website navigation best practices for better UX. Available at: https://lovable.dev/guides/website-navigation-best-practices-that-convert [Accessed 4 September 2026]
+Mapletree Studio, 2026. Responsive Design. Available at: https://mapletree.studio/glossary/responsive-design [ Accessed 4 September 2026]
+ProfileTree,nd.ProfileTree digital marketing agency [Online]. Available at: https://profiletree.com/ [Accessed 3 September 2026].
+Ochwani, J.,2025. Basic Principles of responsive web design.Octect Design Studio. Available at: https://octet.design/basic-principles-of-responsive-web-design [ Accessed 4 September 2026]
+Laubheimer, P.,2024. Menu design checklist: 17 UX guidelines. Nielsen Norman Group. Available at: https://www.nngroup.com/articles/menu-design/ [Accessed 4 September 2026]
+Jonremus,2019.Startup_tools.md: Curated directory of the best startup tools [GitHub Gist]. Available at: https://gist.github.com/Jonremus/9f267de65d1afec77af9a515322e8b3a [ Accessed 4 September 2026]
+
